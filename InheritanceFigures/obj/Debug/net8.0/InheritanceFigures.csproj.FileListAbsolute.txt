@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\source\repos\InheritanceFigures\bin\Debug\net8.0\InheritanceFigures.exe
+C:\Users\Gebruiker\source\repos\InheritanceFigures\bin\Debug\net8.0\InheritanceFigures.deps.json
+C:\Users\Gebruiker\source\repos\InheritanceFigures\bin\Debug\net8.0\InheritanceFigures.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\InheritanceFigures\bin\Debug\net8.0\InheritanceFigures.dll
+C:\Users\Gebruiker\source\repos\InheritanceFigures\bin\Debug\net8.0\InheritanceFigures.pdb
+C:\Users\Gebruiker\source\repos\InheritanceFigures\obj\Debug\net8.0\InheritanceFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\InheritanceFigures\obj\Debug\net8.0\InheritanceFigures.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\InheritanceFigures\obj\Debug\net8.0\InheritanceFigures.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\InheritanceFigures\obj\Debug\net8.0\InheritanceFigures.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\InheritanceFigures\obj\Debug\net8.0\InheritanceFigures.dll
+C:\Users\Gebruiker\source\repos\InheritanceFigures\obj\Debug\net8.0\refint\InheritanceFigures.dll
+C:\Users\Gebruiker\source\repos\InheritanceFigures\obj\Debug\net8.0\InheritanceFigures.pdb
+C:\Users\Gebruiker\source\repos\InheritanceFigures\obj\Debug\net8.0\InheritanceFigures.genruntimeconfig.cache
+C:\Users\Gebruiker\source\repos\InheritanceFigures\obj\Debug\net8.0\ref\InheritanceFigures.dll
